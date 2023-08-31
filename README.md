@@ -30,7 +30,8 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=T5EV6W1hTGI"><img width="140px" src="https://i.ytimg.com/vi/T5EV6W1hTGI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=T5EV6W1hTGI">Creating Your Personal Website with UB&#39;s Resources | University at Buffalo Students: Step-by-Step</a> (Aug 6, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
