@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampathbhargav&label=Profile%20views&color=0e75b6&style=flat" alt="sampathbhargav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathbhargav" alt="sampathbhargav" /></a> </p>
 
 - 🔭 I’m currently working on [Ansible](https://medium.com/@sampathbhargav/everything-that-i-learned-about-ansible-hands-on-guide-e7bc8ade7c05)
 
