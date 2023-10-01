@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Handy AWS Concepts — Part 2](https://medium.com/@sampathbhargav/handy-aws-concepts-part-2-3ebaadcccf3a?source=rss-56b11d3ad6bd------2)
 - [Everything That I Learned about Docker: Hands-on Guide](https://medium.com/@sampathbhargav/everything-that-i-learned-about-docker-hands-on-guide-e98013f26283?source=rss-56b11d3ad6bd------2)
 - [HumanGov: Configuration and Deployment of HumanGov SaaS Application on AWS EC2 Inventory Across US…](https://medium.com/@sampathbhargav/humangov-configuration-and-deployment-of-humangov-saas-application-on-aws-ec2-inventory-across-us-fa55ca805fd3?source=rss-56b11d3ad6bd------2)
 - [Everything That I Learned about Ansible: Hands-on Guide](https://medium.com/@sampathbhargav/everything-that-i-learned-about-ansible-hands-on-guide-e7bc8ade7c05?source=rss-56b11d3ad6bd------2)
-- [Handy AWS concepts](https://medium.com/@sampathbhargav/notes-ede7a989e6d2?source=rss-56b11d3ad6bd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube videos
