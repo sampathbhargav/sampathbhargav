@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ansible](https://medium.com/@sampathbhargav/everything-that-i-learned-about-ansible-hands-on-guide-e7bc8ade7c05)
 
-- 🌱 I’m currently learning **Ansible, Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **AWS and other cloud projects**
 
